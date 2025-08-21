@@ -1,7 +1,7 @@
 import React, { useState } from "react";
-import Chart from "../component/chart";
+import Chart from "../component/Chart";
 import ExchangeCoins from "../component/ExchangeCoins";
-import Sidebar from "../component/sidebar";
+import Sidebar from "../component/Sidebar";
 import Portfolio from "../component/Portfolio";
 import Searchbar from "../component/Searchbar";
 import CurrencySelector from "../component/CurrencySelector";
