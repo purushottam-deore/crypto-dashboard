@@ -15,7 +15,7 @@ A full-stack dashboard to view and analyze cryptocurrency prices.
 - Deployment: GitHub + Heroku
 
 ## Deployment
-- GitHub Repo: [Repo Link](https://github.com/username/crypto-dashboard)
+- GitHub Repo: [Repo Link](https://github.com/purushottam-deore/crypto-dashboard.git)
 - Live App: [Render Link](https://crypto-dashboard-6.onrender.com/)
 
 ## Run Locally
